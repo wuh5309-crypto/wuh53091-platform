@@ -87,7 +87,7 @@ export default function App() {
             animate={{ opacity: 1, y: 0 }}
             className="text-7xl font-black mb-10 tracking-[0.25em] drop-shadow-lg"
           >
-            穿透式监管系统1
+            穿透式监管系统
           </motion.h2>
           <div className="w-full max-w-[800px] mx-auto">
             <div className="bg-white/15 backdrop-blur-xl rounded-2xl border border-white/30 flex items-center p-3 shadow-2xl">
